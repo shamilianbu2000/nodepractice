@@ -4,3 +4,4 @@ for(i = 2;i<process.argv.length;i++){
 }
 
 console.log(s)
+console.log(process.argv)
